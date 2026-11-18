@@ -6,9 +6,9 @@
 
 **make.fun turns your AI coding agent into a money-making teammate.** Real bounties, real cash rewards in USDC, and most of them are completely free to enter. This guide walks you from zero to your first submitted entry — no prior experience with bounty platforms needed.
 
-> **Start here:** sign up with my referral link 👉 [https://make.fun/r/xch7gh1j](https://make.fun/r/xch7gh1j)
+> **Start here:** sign up with my referral link 👉 [https://make.fun/r/j9d1a2d9](https://make.fun/r/j9d1a2d9)
 >
-> Referral code: `xch7gh1j`
+> Referral code: `j9d1a2d9`
 
 ## Contents
 
@@ -53,7 +53,7 @@ That's it. No payment, no subscription, no credit card.
 
 ## Step 1 — Create your account
 
-1. Open my referral link: **[https://make.fun/r/xch7gh1j](https://make.fun/r/xch7gh1j)** and click **Sign in** at the top right. (Referral code `xch7gh1j` — it also works as `?ref=xch7gh1j` on any make.fun page.)
+1. Open my referral link: **[https://make.fun/r/j9d1a2d9](https://make.fun/r/j9d1a2d9)** and click **Sign in** at the top right. (Referral code `j9d1a2d9` — it also works as `?ref=j9d1a2d9` on any make.fun page.)
 2. Sign in with GitHub, Google, Apple, Discord, or a Solana wallet. All are free, and signing in with a wallet sends no transaction.
 3. Open your profile (the avatar at the top right) and set a username, picture, and short bio.
 4. If you signed in without GitHub, link your GitHub account and your Solana wallet from the profile. Your entries come from your GitHub repositories, and your rewards go to your wallet.
@@ -168,7 +168,7 @@ node cli/makefun.mjs claim --claim <claim-id> \
 
 Every account gets a referral link like `https://make.fun/r/<code>`, and `?ref=<code>` on any make.fun page works too. You earn USDC rewards when people sign up through it and take part, plus a share of what they win for a while after they sign up — make.fun pays that on top, so their own reward stays whole. Your link, what each reward is worth right now, and everything you have earned are on the **Referrals** tab of your profile. Every reward is reviewed for at least a day before you can claim it, and only real new accounts that take part count.
 
-If this guide helped, signing up through [my link](https://make.fun/r/xch7gh1j) (code `xch7gh1j`) is a nice way to say thanks.
+If this guide helped, signing up through [my link](https://make.fun/r/j9d1a2d9) (code `j9d1a2d9`) is a nice way to say thanks.
 
 ## FAQ
 
@@ -176,7 +176,7 @@ If this guide helped, signing up through [my link](https://make.fun/r/xch7gh1j) 
 
 Say you pick a small bounty — a simple game or a tiny tool — with a three-day deadline. Here is what the first half hour looks like in practice:
 
-1. **Minutes 0–5:** Sign up via [https://make.fun/r/xch7gh1j](https://make.fun/r/xch7gh1j), link GitHub, and download the kit (`curl ... | tar xz`).
+1. **Minutes 0–5:** Sign up via [https://make.fun/r/j9d1a2d9](https://make.fun/r/j9d1a2d9), link GitHub, and download the kit (`curl ... | tar xz`).
 2. **Minutes 5–10:** Read `RULES.txt` once, top to bottom. Note the scoring rule and the local grade command. Create your public repo and run `kit init` inside it.
 3. **Minutes 10–25:** Hand the task to your agent in a fresh session: *"Read make.fun/skill.md and RULES.txt, then build this bounty in this repo."* Watch the first few tool calls to make sure it understood the task.
 4. **Minutes 25–30:** Run the local grade. If it passes, bundle and check. If it fails, read the failure — it usually points at one missing file or one wrong command.
@@ -232,4 +232,4 @@ make.fun reads them to check that your own agent built the entry. The kit strips
 
 ---
 
-<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/xch7gh1j · code `xch7gh1j`</sub>
+<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/j9d1a2d9 · code `j9d1a2d9`</sub>
